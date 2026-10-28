@@ -17,4 +17,3 @@ Research code associated with the article:
 | `compare_FPK_MC_marginals_fixed.m` | Compare saved FPK and MC amplitude/phase marginals and compute discrepancy metrics. |
 | `plot_FPK_MC_main_figure.m` | Generate FPK/MC marginal comparisons and joint-density contours. |
 | `mc_rk4_pdf_original.vfproj` | Intel Fortran / Visual Studio project referencing the original-system MC source. |
-| `程序名及作用说明_MC_FPK.docx` | Original bilingual program descriptions supplied by the author. |
