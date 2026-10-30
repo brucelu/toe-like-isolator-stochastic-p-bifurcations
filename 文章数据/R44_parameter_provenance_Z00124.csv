@@ -1,0 +1,2 @@
+Requested_Omega,FPK_Omega,MC_Omega,Requested_Zhat,FPK_Zhat,MC_low_Zhat,MC_high_Zhat,Zhat_verified,FPK_Zhat_source,MC_low_Zhat_source,MC_high_Zhat_source,FPK_split,MC_split,Split_compatible
+0.153,0.153,0.153,0.00124,0.00124,NaN,NaN,0,results.parameters.Zhat,NOT_STORED,NOT_STORED,2.3951,2.126,0

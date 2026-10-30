@@ -1,0 +1,3 @@
+variable,L1_curve_not_PDF_distance,RMSE_curve,FPK_mass,MC_plotted_mass,MC_minus_FPK_mass,FPK_peak,MC_plotted_peak,peak_abs_error,x_shift,vertical_scale
+amplitude,0.51249834499894,1.05058748551275,1,1,-4.44089209850063e-16,1.125,1.135,0.01,-0.09,1
+phase,0.619886649806869,0.896964935865708,1,0.7,-0.3,0.336599212884621,0.318647254864108,0.0179519580205131,0,0.7
