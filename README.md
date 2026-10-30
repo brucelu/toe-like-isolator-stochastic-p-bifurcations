@@ -19,6 +19,6 @@ Research code associated with the article:
 | `mc_rk4_pdf_original.vfproj` | Intel Fortran / Visual Studio project referencing the original-system MC source. |
 | `mc_rk4_pdf_original.f90` | Perform Monte Carlo simulations of the original stochastic system with Poincaré sampling and output amplitude–phase probability density statistics. |
 
-## 文章数据
+## data
 
-[文章数据](文章数据/) contains the article's CSV data, including parameter provenance records and FPK/MC curve comparison metrics.
+[data](data/) contains the article's CSV data, including parameter provenance records and FPK/MC curve comparison metrics.
